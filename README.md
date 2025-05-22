@@ -1,4 +1,4 @@
-# IOKernelRW (한글 번역)
+# IOKernelRW (한글 번역-ChatGPT)
 
 **IOKernelRW**는 macOS에서 커널 메모리 읽기/쓰기 권한을 제공하는 커널 확장(KEXT)입니다.
 
